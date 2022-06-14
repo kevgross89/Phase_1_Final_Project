@@ -2,6 +2,8 @@
 
 Author: Kevin Gross
 
+![film production](./Images/Film%20Header.jpeg)
+
 ## Project Overview
 
 This project analyzes movie studio data to better understand what types of movies generate a larger domestic gross at the box office. The analysis below shows that domestic box office revenues can be linked to specific genres, movie runtimes, and the time of year the movie is released. This information is intended for the head of Microsoft Studios so they can help decide what type of films to create.
