@@ -1,8 +1,8 @@
+![film production](./Images/Film%20Header.jpeg)
+
 # Microsoft Studios Film Recommendations
 
 Author: Kevin Gross
-
-![film production](./Images/Film%20Header.jpeg)
 
 ## Project Overview
 
@@ -62,6 +62,8 @@ Further analysis could yield additional insights to help guide Microsoft as it s
 See the full analysis in the [Jupyter Notebook](https://github.com/kevgross89/Phase_1_Final_Project/blob/master/dsc-phase1-project.ipynb) or review this [presentation](https://github.com/kevgross89/Phase_1_Final_Project/blob/master/presentation.pdf).
 
 For additional information, please contact Kevin Gross at kevgross89@gmail.com
+
+![microsoft](./Images/Microsoft.png)
 
 ## Repository Structure
 ├── Data
