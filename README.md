@@ -38,7 +38,7 @@ Movies that were 120 to 170 minutes long tended to have a higher domestic movie 
 
 Movies that were released in May, June, July or December had the highest average domestic gross.
 
-![Avg_Dom_Gross_By_Month](https://user-images.githubusercontent.com/100182035/173442932-1370558e-e588-453a-882d-60c11c2fca5a.png)
+![Avg_Dom_Gross_By_Month](./Images/Avg_Dom_Gross_By_Month.png)
 
 ## Conclusions
 
