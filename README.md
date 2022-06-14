@@ -10,6 +10,8 @@ This project analyzes movie studio data to better understand what types of movie
 
 ### Business Problem
 
+![film](./Images/Film%20Production.jpg)
+
 Microsoft is seeing all the big companies create original video content and have decided that this is a revenue stream that they want to attempt to tap into. Their first thought is to create a new movie studio, but they do not know anything about creating movies. The information below explores what types of films are doing best at the box office and translates those findings into actionable insights that the head of Microsoft Studios can use to help decide what type of films to create.
 
 ### The Data
